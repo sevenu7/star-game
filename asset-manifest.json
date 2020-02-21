@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/star-game/static/css/main.4e8c53ed.chunk.css",
-    "main.js": "/star-game/static/js/main.be15ecc9.chunk.js",
-    "main.js.map": "/star-game/static/js/main.be15ecc9.chunk.js.map",
+    "main.js": "/star-game/static/js/main.3871d890.chunk.js",
+    "main.js.map": "/star-game/static/js/main.3871d890.chunk.js.map",
     "runtime-main.js": "/star-game/static/js/runtime-main.fdf40f15.js",
     "runtime-main.js.map": "/star-game/static/js/runtime-main.fdf40f15.js.map",
     "static/js/2.343f35c9.chunk.js": "/star-game/static/js/2.343f35c9.chunk.js",
     "static/js/2.343f35c9.chunk.js.map": "/star-game/static/js/2.343f35c9.chunk.js.map",
     "index.html": "/star-game/index.html",
-    "precache-manifest.3009aee877a0a1131efff15134ffb1ac.js": "/star-game/precache-manifest.3009aee877a0a1131efff15134ffb1ac.js",
+    "precache-manifest.1b4058915fe2f940f57c144c7f6cdb65.js": "/star-game/precache-manifest.1b4058915fe2f940f57c144c7f6cdb65.js",
     "service-worker.js": "/star-game/service-worker.js",
     "static/css/main.4e8c53ed.chunk.css.map": "/star-game/static/css/main.4e8c53ed.chunk.css.map",
     "static/js/2.343f35c9.chunk.js.LICENSE": "/star-game/static/js/2.343f35c9.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fdf40f15.js",
     "static/js/2.343f35c9.chunk.js",
     "static/css/main.4e8c53ed.chunk.css",
-    "static/js/main.be15ecc9.chunk.js"
+    "static/js/main.3871d890.chunk.js"
   ]
 }
